@@ -1,0 +1,73 @@
+.cardback{
+height:321.875vw;
+position: absolute;
+left: 0%;
+right: 0%;
+top: -0.03%;
+bottom: -9.99%;
+background: radial-gradient(119.43% 35.47% at 53.9% 85.74%, #BA00BB 0%, rgba(15, 23, 85, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, radial-gradient(79.02% 43.35% at 71.61% 39.85%, #BA00BB 0%, rgba(15, 23, 85, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, radial-gradient(74.44% 19.87% at 69.79% 12.72%, rgba(186, 0, 187, 0.42) 0%, #AC02B2 0.01%, #0F1755 100%); 
+}
+@media screen and (max-width: 1140px) {
+    .cardback {
+        height:301.875vw;
+    }
+  }
+  @media screen and (max-width: 1200px) {
+    .cardback {
+        height:310vw;
+    }
+  }
+  @media screen and (max-width: 930px) {
+    .cardback {
+        height:320vw;
+    }
+  }
+  @media screen and (max-width: 780px) {
+    .cardback {
+        height:330vw;
+    }
+  }
+  @media screen and (max-width: 610px) {
+    .cardback {
+        height:340vw;
+    }
+  }
+
+#card2{
+    background: rgba(0, 0, 0, 0.1);
+    text-align: left;
+    
+}
+#card1{
+    background: rgba(255, 255, 255, 0.07);
+    text-align: center;
+    
+}
+#card1 h1{
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 900;
+font-size: 5.060vw;
+line-height: 4.762vw;
+color: #fff;
+
+border: 1px solid rgba(255, 255, 255, );
+text-shadow: 0px 0px 30px #FFF8F8;
+}
+#card2 p{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 1.071vw;
+line-height: 1.786vw;
+color: #FFFFFF;
+}
+#card2 h2{
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 1.429vw;
+    line-height: 2.976vw;
+    text-transform:uppercase;
+  color: white; 
+}

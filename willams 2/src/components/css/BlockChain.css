@@ -1,0 +1,130 @@
+#c{
+    background: radial-gradient(74.44% 78.1% at 69.79% 50%, rgba(186, 0, 187, 0.42) 0%, #AC02B2 0.01%, #0F1755 100%);
+  }
+  @media screen and (max-width: 1690px) {
+    .background {
+        height: 3000px;
+    }
+  }
+  @media screen and (max-width: 1400px) {
+    .background {
+        height: 2400px;
+    }
+  }
+  @media screen and (max-width: 1200px) {
+    .background {
+        height: 2000px;
+    }
+  }
+  @media screen and (max-width: 900px) {
+    .background {
+        height: 1600px;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .background {
+        height: 1400px;
+    }
+  }
+#h1{
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 53.571vw;
+font-size: 4.167vw;
+line-height: 4.962vw;
+  }
+#p{
+position: relative;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 1.700vw;
+line-height: 2.560vw;
+color: #FFFFFF;
+  }
+#button{
+    position: relative;
+    background: linear-gradient(182.4deg, #611BB5 2.54%, rgba(255, 255, 255, 0) 222.36%);
+    width: 9.524vw;
+    height: 2.976vw;
+    color: #FFFFFF;
+}
+#h11{
+    position: relative;
+    color: #FFFFFF;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-size:3.571vw;
+    
+}
+#h5{
+    color: #FFFFFF;
+    position: relative;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.429vw;
+    line-height: 2.143vw;
+}
+#card11111{
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%);
+}
+#card22222{
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%);
+}
+#card33333 {
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%);
+}
+#card44444 {
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%);
+}
+.real h1{
+    position: relative;
+    text-align: center;
+    font-size: 1.190vw;
+
+}
+.real p{
+    position: relative;
+    text-align: center;
+    font-size: 1.190vw;
+    top: 1.488vw;
+}
+
+.nextGen{
+    position: relative;
+    color: #FFFFFF;
+    left: 8.750vw;
+    top: 24.583vw;
+    text-shadow: 0px 0px 30px #FFF8F8;
+    font-size: 3.571vw;
+
+}
+.nexttext{
+    position: relative;
+    color: #FFFFFF;
+    left: 8.750vw;
+    font-weight: 23.810vw;
+    font-size: 1.190vw;
+    line-height: 1.786vw;
+    top: 22.440vw;  
+}
+.roket{
+    position: relative;
+    left: 22.074vw;
+    top: 24.679vw;
+    width: 7.274vw;
+    height: 17.998vw;
+}
+.aircraft{
+    position: relative;
+    left: 13vw;
+    top: 28.679vw;
+    width: 10.609vw;
+    height: 8.585vw;
+
+}
+
+.footer{
+    position: relative;
+}

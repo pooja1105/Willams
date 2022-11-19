@@ -1,0 +1,160 @@
+.background12{
+    background: radial-gradient(74.44% 78.1% at 69.79% 50%, rgba(186, 0, 187, 0.42) 0%, #AC02B2 0.01%, #0F1755 100%);
+    height: 3500px;
+  }
+  @media screen and (max-width: 1680px) {
+    .background12 {
+        height: 3300px;
+    }
+  }
+  @media screen and (max-width: 1400px) {
+    .background12 {
+        height: 2600px;
+    }
+  }
+  @media screen and (max-width: 1200px) {
+    .background12 {
+        height: 2400px;
+    }
+  }
+  @media screen and (max-width: 900px) {
+    .background12 {
+        height: 1800px;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .background12 {
+        height: 1400px;
+    }
+  }
+#h1{
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 53.571vw;
+font-size: 4.167vw;
+line-height: 4.762vw;
+  }
+#p{
+position: relative;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 23.810vw;
+font-size: 1.429vw;
+line-height: 2.560vw;
+color: #FFFFFF;
+  }
+#button{
+    position: relative;
+    background: linear-gradient(182.4deg, #611BB5 2.54%, rgba(255, 255, 255, 0) 222.36%);
+    width: 9.524vw;
+    height: 2.976vw;
+    color: #FFFFFF;
+}
+
+#card1001{
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%);
+}
+#card2002{
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%);
+}
+#card3003 {
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%);
+}
+#card4004 {
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%);
+}
+.reala h1{
+    position: relative;
+    text-align: center;
+    font-size: 1.190vw;
+
+}
+.reala p{
+    position: relative;
+    text-align: center;
+    font-size: 1.190vw;
+    top: 1.488vw;
+}
+#cusdt22{
+  position: relative;
+  left: 7vw;
+}
+#cusdt33{
+  position: relative;
+  left: 1vw;
+}
+#cusdt44{
+  position: relative;
+  left: -5vw;
+}
+
+.w3-table th{
+  color: #bcbcbc;
+  left: 17.869vw;
+  align-items: center;
+  font-size: 0.952vw;
+  position: relative;
+  top: 23.810vw;
+}
+.w3-table img{
+  position: relative;
+  left: -1vw;
+  width: 2.381vw;
+  height: 2.381vw;
+
+}
+.w3-table td{
+  color: #bcbcbc;
+  left: 18.50vw;
+  align-items: center;
+  font-size: 0.952vw;
+  position: relative;
+  color: #FFFFFF;
+  top: 24.810vw;
+}
+.TRheading{
+  position: relative;
+  padding-left: 3vw;
+}
+.trusted{
+  position: relative;
+  text-shadow: 0px 0px 30px #FFF8F8;
+  text-align: center;
+  color: #FFFFFF;
+  top: 27.762vw;
+  width: 60.298vw;
+  left: 19.762vw;
+}
+.mMoObile{
+  position: relative;
+  width: 43.036vw;
+  height: 35.301vw;
+  right: 10.940vw;
+  top: 23.810vw;
+}
+.trade{
+  position: relative;
+  text-shadow: 0px 0px 30px #FFF8F8;
+  font-size: 3.571vw;
+  color: #FFFFFF;
+  left: 8.631vw;
+  top: 22.619vw;
+}
+.lllist{
+  top: 22.619vw;
+  color: #FFFFFF;
+  left: 8.631vw;
+  position: relative;
+  width: 27.679vw;
+  font-size: 1.190vw;
+}
+.red{
+  color: #FF3838;
+
+}
+.blue{
+ color: #52FAD1;
+}
+.footer{
+  position: relative;
+}

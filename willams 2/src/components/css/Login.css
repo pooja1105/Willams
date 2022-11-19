@@ -1,0 +1,97 @@
+.background{
+  background: radial-gradient(74.44% 78.1% at 69.79% 50%, rgba(186, 0, 187, 0.42) 0%, #AC02B2 0.01%, #0F1755 100%);
+  
+}
+#user{
+  background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%);
+  width: 28.869vw;
+  height: 3.571vw;
+  border: 1px solid #ccc;
+}
+
+#password{
+  background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%); 
+  width: 28.869vw;
+  height: 3.571vw;
+  border: 1px solid #ccc;
+}
+
+#btn {
+  background: linear-gradient(182.4deg, #611BB5 2.54%, rgba(255, 255, 255, 0) 222.36%);
+  width: 28.869vw;
+  height: 3.571vw;
+  color: #ffff;
+  border: 1px solid #ccc;
+}
+.img{
+  width: 41.520vw;
+  height: 41.520vw;
+  left: 9.107vw;
+}
+.fpass11{
+  position: relative;
+  left: 15vw;
+}
+@media screen and (max-width: 1370px) {
+  .fpass11 {
+    position: relative;
+    left: 10vw;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .fpass11 {
+    position: relative;
+    left: 1vw;
+  }
+}
+@media screen and (max-width: 810px) {
+  .fpass11 {
+    position: relative;
+    left: 1vw;
+    font-size: 10px;
+  }
+}
+.text{
+  color: #ffff;
+  font-size: 1.786vw;
+}
+.ttext{
+  color: #ffff;
+  position: relative;
+  top: -1vw;
+  font-size: 0.833vw;
+}
+.regis{
+  color: #F650FF;
+}
+::placeholder { 
+  color: #ffff;
+}
+.allpage{
+  position: relative;
+  top: 9vw;
+  left: 6.90vw;
+}
+.welcome{
+ position: relative;
+ top: -34.290vw;
+ left: 15.50vw;
+ color: #ffff;
+ font-family: 'Orbitron';
+font-style: normal;
+font-weight: 53.571vw;
+font-size: 2.381vw;
+line-height: 9.262vw;
+}
+.logoo{
+  position: relative;
+  top: 2.024vw;
+  left: 9.107vw;
+}
+.chain{
+  position: relative;
+  top: -5vw;
+  font-size: 4.50vw;
+  left: -4vw;
+
+}

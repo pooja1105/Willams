@@ -1,0 +1,156 @@
+.backgroundss{
+    background: radial-gradient(74.44% 78.1% at 69.79% 50%, rgba(186, 0, 187, 0.42) 0%, #AC02B2 0.01%, #0F1755 100%);
+    height: 135.208vw;
+  }
+  @media only screen and(max-width:600px) {
+    .background {
+      height: 150vw;
+    }
+  }
+  .get{
+    position: relative;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-weight:47.619vw;
+    font-size: 2.381vw;
+    line-height: 2.976vw;
+    top: 10.060vw;
+    left: 7.881vw;
+  }
+
+  .Our{
+    position: relative;
+    color: #FFFFFF;
+    top: 10.060vw;
+    font-weight: 23.810vw;
+    font-size: 0.833vw;
+    line-height: 1.131vw;
+    left: 7.881vw;
+  }
+  #sponser{
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%);
+    width: 28.869vw;
+    height: 3.571vw;
+    border: 1px solid #ccc;
+  }
+  
+  #Email{
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%); 
+    width: 28.869vw;
+    height: 3.571vw;
+    border: 1px solid #ccc;
+   
+  }
+  #Message{
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%); 
+    width: 29.810vw;
+    height: 10.738vw;
+    border: 1px solid #ccc;
+  }
+  #Submit{
+    background: linear-gradient(182.4deg, #611BB5 2.54%, rgba(255, 255, 255, 0) 222.36%);
+    width: 28.869vw;
+    height: 3.571vw;
+    color: #FFFFFF;
+  }
+  .offices{
+    color: #FFFFFF;
+    position: relative;
+    font-size: 1.190vw;
+    left: 9.881vw;
+    top: 17.492vw;
+
+  }
+  .location{
+    color: #FFFFFF;
+    position: relative;
+    font-size: 0.833vw;
+    left: 9.881vw;
+    top: 17.492vw;
+  }
+  .icons{
+    position: relative;
+    color: #FFFFFF;
+    left: 9.881vw;
+    top: 17.492vw;
+    
+  }
+  .faq{
+    position: relative;
+    color: #FFFFFF;
+    text-align: center;
+    text-shadow: 0px 0px 30px #FFF8F8;
+    font-size: 3.571vw;
+    top: 19.048vw;
+
+  }
+  .faqqp{
+    position: relative;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 1.190vw;
+    top: 18vw;
+  }
+  .imgfaq{
+    position: relative;
+    width: 42.500vw;
+    height: 29.881vw;
+    top: 25.833vw;
+
+  }
+  #bitechain{
+    background: #1C1C1C;
+    width: 35.833vw;
+    height: 2.976vw;
+    border: 1px solid #ccc;
+    color: #FFFFFF;
+    top: 23.833vw;
+    padding: 5px ;
+
+  }
+  .mb-4{
+    position: relative;
+    padding: 0.595vw;
+  }
+  .questions{
+    position: relative;
+    text-align: center;
+    color: #FFFFFF;
+    top: 30.833vw;
+    font-size: 2.381vw;
+  }
+
+  .questionspp {
+    position: relative;
+    text-align: center;
+    color: #FFFFFF;
+    top: 30.833vw;
+    font-size: 1.190vw;
+  }
+  #emailbutton{
+    background: linear-gradient(108.03deg, rgba(196, 34, 198, 0.1) 5.25%, rgba(204, 63, 207, 0.2127) 20%, rgba(223, 128, 226, 0.4894) 56.23%, rgba(237, 176, 240, 0.7223) 86.73%, #F6CEF9 109.94%, #F9D9FC 123.1%); 
+    border: 1px solid #ccc;
+    width: 23.810vw;
+    height: 3.571vw;
+    left: 30.238vw;
+    top: 32.238vw;
+  }
+  #lastbutton{
+    background: linear-gradient(182.4deg, #611BB5 2.54%, rgba(255, 255, 255, 0) 222.36%);
+    width: 11.369vw;
+    height: 3vw;
+    left: 55vw;
+    top: 29vw;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    font-size: 0.938vw;
+  }
+  ::placeholder{
+    color: #FFFFFF;
+    font-size: 1.10vw;
+  }
+  .Foo{
+    position: relative;
+    top: 32.396vw;
+    
+  }
